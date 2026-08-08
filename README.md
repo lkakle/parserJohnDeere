@@ -7,6 +7,7 @@
 
 Результат:
 https://westagro.ru/catalog/forage-harvesters/johndeere
+
 https://www.linkedin.com/in/matvei-kirilchik/
 
 Task: Transfer a portion of the John Deere catalog (name, product number, photo, specifications if any) to the Tilda CMS.
@@ -18,4 +19,5 @@ Implemented batch uploading (import) of products to the Tilda platform (added ke
 
 Result:
 https://westagro.ru/catalog/forage-harvesters/johndeere
+
 https://www.linkedin.com/in/matvei-kirilchik/
